@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassMultiplier", "MassMultiplier\MassMultiplier.csproj", "{1237AEF1-9E54-4A54-8D93-C3B313E3366D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassMultiplierCLI", "MassMultiplierCLI\MassMultiplierCLI.csproj", "{CC7BB5E2-03C1-4546-8B77-2961F7F0749E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassMultiplierGUI", "MassMultiplierGUI\MassMultiplierGUI.csproj", "{EB56229B-4D35-41CB-8C40-FFFBA389776D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1237AEF1-9E54-4A54-8D93-C3B313E3366D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1237AEF1-9E54-4A54-8D93-C3B313E3366D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1237AEF1-9E54-4A54-8D93-C3B313E3366D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1237AEF1-9E54-4A54-8D93-C3B313E3366D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7BB5E2-03C1-4546-8B77-2961F7F0749E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7BB5E2-03C1-4546-8B77-2961F7F0749E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7BB5E2-03C1-4546-8B77-2961F7F0749E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7BB5E2-03C1-4546-8B77-2961F7F0749E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB56229B-4D35-41CB-8C40-FFFBA389776D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB56229B-4D35-41CB-8C40-FFFBA389776D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB56229B-4D35-41CB-8C40-FFFBA389776D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB56229B-4D35-41CB-8C40-FFFBA389776D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
