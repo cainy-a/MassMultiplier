@@ -12,4 +12,4 @@ and it will multiply them all.
 #### Command line usage:
 `MassMultiplierCLI.exe <path to sums> <path to save | leave blank to not save>`
 ### Download
-See releases by clicking [here](https://github.com/cainy-a/MassMultiplier/releases)
+See the releases by clicking [here](https://github.com/cainy-a/MassMultiplier/releases)
