@@ -11,5 +11,5 @@ Feed it a text file with the following format (note the `x`s can be changed to `
 and it will multiply them all.
 #### Command line usage:
 `MassMultiplierCLI.exe <path to sums> <path to save | leave blank to not save>`
-## Dowload
+### Download
 See releases by clicking [here](https://github.com/cainy-a/MassMultiplier/releases)
